@@ -14,7 +14,8 @@ public class strings {
         //este foarte important
         //Este un backup pentru proiecte
 
-        //De acum tot ce vom scrie vom urca pe git
+        //O sa scriem cod si il vom urca pe git de fiecare data
+        //pentru a pastra o copie de siguranta
 
 
 
