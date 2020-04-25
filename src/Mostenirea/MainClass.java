@@ -18,5 +18,7 @@ public class MainClass {
 
         Student S1 = new Student(38,"Ionut","Petrescu",8.99);
         System.out.println(S1.getMedia());
+
+        //Sa  punem continutul si pe GIt
     }
 }
